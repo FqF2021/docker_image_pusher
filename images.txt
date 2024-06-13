@@ -1,2 +1,1 @@
 rancher/hyperkube:v1.21.14-rancher1
---platform=linux/amd64 rancher/hyperkube
