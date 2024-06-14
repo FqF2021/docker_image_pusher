@@ -1,1 +1,1 @@
-istio/pilot:1.15.0
+grafana/grafana:9.1.5
