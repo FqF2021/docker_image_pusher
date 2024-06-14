@@ -1,1 +1,8 @@
-grafana/grafana:9.1.5
+prom/node-exporter:v1.5.0
+argoproj/workflow-controller:v3.4.3
+volcanosh/vc-scheduler:v1.7.0
+volcanosh/vc-controller-manager:v1.7.0
+kubeflow/training-operator:v1-8a066f9
+kubernetesui/dashboard:v2.6.1
+kubernetesui/metrics-scraper:v1.0.8
+kubernetesui/metrics-scraper:v1.0.8
