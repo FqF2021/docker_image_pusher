@@ -1,2 +1,2 @@
-mysql:8.0.32
---platform=linux/amd64 mysql
+bitnami/redis:6.2.12
+--platform=linux/amd64 bitnami/redis
