@@ -1,1 +1,1 @@
-bitnami/kube-rbac-proxy:0.14.1
+busybox:1.36.0
