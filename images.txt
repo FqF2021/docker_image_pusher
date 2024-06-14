@@ -1,1 +1,1 @@
-	minio/minio:RELEASE.2023-04-20T17-56-55Z
+ccr.ccs.tencentyun.com/cube-studio/kubeflow-dashboard:2024.06.01
