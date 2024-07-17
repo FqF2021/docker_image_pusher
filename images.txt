@@ -1,1 +1,1 @@
-rancher/rancher:v2.7.5
+gocv/opencv:4.5.4-gpu-cuda-11
