@@ -1,1 +1,1 @@
-gocv/opencv:4.5.4-gpu-cuda-11
+gocv/opencv:4.5.5
